@@ -1,5 +1,5 @@
 # Market Forecasting in the United Kingdom
-
+![](https://github.com/SawsanYusuf/Market-Forecasting-in-United-Kingdom/blob/main/images/anthony-delanoix-CFi7_hCXecU-unsplash.jpg)
 
 In this project, we developed a model to forecast volatility on the London Stock Exchange. Firstly, we explored stock data for two companies using the AlphaVantage stock API. Next, we utilized the data to calculate volatility and establish a Garch model to predict it.
 
